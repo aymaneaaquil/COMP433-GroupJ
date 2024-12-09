@@ -137,6 +137,9 @@ pip install numpy matplotlib seaborn torch torchvision scikit-learn tqdm efficie
 6. Change hyperparameters if you want to see different results
 -- Might take a long time to run if you aren't running on your gpu.
 
+### **How to run pretrained model**
+1. The weights for the model are under Models/bestModel/best_weight.pt
+2. Use those weights in the model you want to run to evaluate the dataset
 ---
 ---
 ### **How to download dataset**
