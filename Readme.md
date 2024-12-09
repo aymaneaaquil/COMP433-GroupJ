@@ -128,5 +128,11 @@ pip install numpy matplotlib seaborn torch torchvision scikit-learn tqdm efficie
 ```
 ---
 ---
+### **How to download dataset**
+Visit the following link: https://www.kaggle.com/competitions/isic-2024-challenge/data
+
+Scroll until the end and click on download all.
+Congratulations you have now downloaded the datasert.
+
 
 
