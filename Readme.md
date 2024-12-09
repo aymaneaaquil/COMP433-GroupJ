@@ -128,6 +128,17 @@ pip install numpy matplotlib seaborn torch torchvision scikit-learn tqdm efficie
 ```
 ---
 ---
+### **How to train and evalute**
+1. Clone the repo
+2. Run reduce.py first to reduce the dataset
+3. Run class_imbalance.py to get the best model
+4. Run feature_engineering.py to get the best features
+5. Run final_model.py
+6. Change hyperparameters if you want to see different results
+-- Might take a long time to run if you aren't running on your gpu.
+
+---
+---
 ### **How to download dataset**
 Visit the following link: https://www.kaggle.com/competitions/isic-2024-challenge/data
 
